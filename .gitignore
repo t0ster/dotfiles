@@ -3,5 +3,6 @@
 !/.config
 /.config/*
 !/.config/git
+!/.config/i3
 !/.doom.d
 /.doom.d/myenv
